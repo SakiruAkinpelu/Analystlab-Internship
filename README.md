@@ -17,6 +17,8 @@ This repository documents my weekly projects, SQL scripts, analysis reports, and
 |---|---|---|---|
 | Week 3 | SQL & Data Querying | PostgreSQL, MySQL | ✅ Completed |
 
+| Week 4 | Data Visualization & Dashboarding | Microsoft Power BI | ✅ Completed |
+
 ---
 
 ## Skills Being Developed
