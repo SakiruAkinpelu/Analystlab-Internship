@@ -2,7 +2,7 @@
 
 **Intern:** Sakiru Akinpelu
 **Program:** AnalystLab Africa Data Analytics Internship
-**Duration:** 2025
+**Duration:** 2026
 
 ---
 
